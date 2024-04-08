@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: root.txt
+url: https://kapilbardewa.github.io/
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -30,11 +30,6 @@ sass:
 # Replace this value and uncomment to enable Google Analytics tracking
 # ga_analytics: UA-000000-0
 
-# Specify the author for blog posts
-author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
 
 # Custom vars
 version: 3.0.0
