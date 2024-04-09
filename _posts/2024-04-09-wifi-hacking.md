@@ -3,18 +3,18 @@ layout: post
 title: Wifi Hacking
 ---
 
-*Alfa-card is mandatory to search/scan for available Networks*
+Alfa-card is mandatory to search/scan for available Networks
 Steps:
-**Connect alfa-card and check the Interfaces**
+Connect alfa-card and check the Interfaces
   Run - ipconfig/iwconfig - after this you will get the wlan0 interface
 
-**Start Monitor Mode**
+Start Monitor Mode
 	Run - airmon-ng start wlan0
 
-**Verify its Monitor Mode**
+Verify its Monitor Mode
   Run - airmon-ng/iwconfig
 
-**Now Scan/Check for Nearby Available Networks**
+Now Scan/Check for Nearby Available Networks
   Run - airodump-ng wlan0mon
 The above command this will display or show list of available networks and make sure you capture and keep a note of AP's MAC address(BSSID) and channel
 *AccessPoint(AP)*
