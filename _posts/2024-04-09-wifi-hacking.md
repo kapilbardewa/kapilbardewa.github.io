@@ -4,9 +4,11 @@ title: Wifi Hacking
 ---
 
 **_Disclaimer: This is for educational purpose only, please try in your own environment_**
+
 *Alfa-card is mandatory to search/scan for available Networks*
 
 Steps:
+
 **Connect alfa-card and check the Interfaces**
 
     ipconfig/iwconfig - This you will give the wlan0 interface
